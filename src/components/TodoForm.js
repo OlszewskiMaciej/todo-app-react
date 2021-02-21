@@ -11,11 +11,11 @@ const handleChange = e => {
 const handleSubmit = e => {
     e.preventDefault();
 
-    // props.onSubmit({
-    //     id: Math.floor(Math.random() * 9999),
-    //     text: input
-    // });
-    
+    props.onSubmit({
+        id: Math.floor(Math.random() * 9999),
+        text: input
+    });
+
     setInput('');
 };
 
