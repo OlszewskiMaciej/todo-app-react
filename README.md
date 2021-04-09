@@ -1,3 +1,5 @@
+You can check project on [Netlify](https://pensive-lalande-a825f3.netlify.app/).
+
 ![Example](https://github.com/OlszewskiMaciej/todo-app-react/blob/master/public/example.png)
 
 # Getting Started with Create React App
